@@ -1,8 +1,8 @@
 <!--- Fill in the template below and click 'Submit new issue'  --->
 <!--- It's okay to skip some sections, 
-      but they'll likely need to be completed before this becomes 'a project' --->
+           but they'll likely need to be completed before this becomes 'a project' --->
 
-## (Project Idea Title Goes Here)
+## (Project Idea Title Goes Here, and in the box above)
 
 
 ### What problem are you trying to solve?
