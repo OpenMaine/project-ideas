@@ -1,4 +1,5 @@
 <!--- Fill in the template below and click 'Submit new issue'  --->
+<!--- Okay to skip some sections, but they'll likely need to be completed before this becomes 'a project' --->
 
 ## (Project Idea Title Goes Here)
 
@@ -18,19 +19,6 @@
 [Answer Here]
 > Ex: As a [Target Customer] I want to [Do Something] So I can [Benefits] 
 
-### What area of Civic Engagement would you put this under? [1 or more]
-
-- Animal Welfare
-- Arts and Culture
-- Civil Rights
-- Children 
-- Disaster and Humantiarian Relief
-- Education
-- Economic Development
-- Poverty Allievation 
-- Public Health
-- Science and Technology
-- Social Services
 
 
 ### What other resources/tools are currently serving the same need? 
@@ -71,14 +59,8 @@
 [Answer Here]
 
 
-### How can we contact you outside of Github(list social media or places you're present)?
+### How can we contact you outside of Github (e.g., your email)?
 
 [Answer Here]
 
-----
-
-
-### Project management
-
-Once your idea is submitted, when you're ready to start managing you project, check out our [Project Management Quick Start Guide](https://github.com/Code-for-Miami/blob/master/project-management-quick-start.md) 
-
+### Please remember to find us at openmaine.org and sign up for our Slack, etc. And feel free to email us: hello@openmaine.org
