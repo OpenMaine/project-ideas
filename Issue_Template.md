@@ -1,5 +1,6 @@
 <!--- Fill in the template below and click 'Submit new issue'  --->
-<!--- Okay to skip some sections, but they'll likely need to be completed before this becomes 'a project' --->
+<!--- It's okay to skip some sections, 
+      but they'll likely need to be completed before this becomes 'a project' --->
 
 ## (Project Idea Title Goes Here)
 
