@@ -18,7 +18,7 @@ OpenMaine uses civic technology to improve quality of life. We want to help citi
 
 OpenMaine is an [open source](https://en.wikipedia.org/wiki/Open_source) organization. We make our projects freely and openly available. GitHub is where we collaborate. There are some really handy tools here, including a feature called [*Issues*](#). This is where we can break projects into manageable problems for collaborators to solve together. 
 
-We hope you find what you're looking for, but if you need help, you can email us at em@openmaine.org!
+We hope you find what you're looking for, but if you need help, you can email us at hello@openmaine.org!
 
 
 ## How To Propose or Discuss Project Ideas
